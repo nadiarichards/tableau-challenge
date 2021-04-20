@@ -72,9 +72,13 @@ I thought it was interesting to see that there is a big difference in popularity
 ![Most Popular End Stations for Women](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20End%20Stations%20for%20Women.png)
 
 ### 4. Ridership and Trip Duration Breakdown by Gender
+Here I wanted to see if trip duration differed a lot by gender, which it didn't. But, as mentioned before, male/female breakdown did change from March 2019 to March 2021 drastically. 
+
 ![Ridership Breakdown by Gender](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Male%20vs%20Female%20Ridership%20by%20Year.png)
 ![Trip Duration Breakdown by Gender](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Trip%20Duration%20and%20Time%20of%20Day%20by%20Gender.png)
 
 ### 5. Ridership by User Type
+From this visualization one can easily tell that the decline in ridership from my first dashboard correlates with decline of subscribers to a CitiBike program. That is a veryy common situation for organizations that have a large subscriber base. Getting the subscriber amount back up is probably amoing the biggest challenges of CitiBike program right now.
+
 ![Ridership by User Type](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Ridership%20by%20User%20Type.png)
 
