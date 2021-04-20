@@ -46,7 +46,8 @@ I wanted to specifically explore the difference in ridership between these month
 During the cleaning process I have encountered some issues and came up with the following solutions (aside from normal data cleaning procedures:
 1. The data for gender and birth year was not available for everyone, so rows with no value in those fields were dropped for my research purposes. However, if I was tasked with the main purpose of asessing the decline in ridership, I would have kept those values. My main purpose was to drill down into gender, age and user type, so that helped me to work with less data.
 2. By seeing value counts I quickly realized that a preset year for those riders who have not entered their birth year was 1970. Although I realize that there may be a fair share of riders who were actually born in this year, I have dropped all the rows where birth year was 1970 in order to not get too skewed data on rider's birth year.
-3. I have chosen to use a 5% sample of each resulted dataset (one for March 2019, March 2020 and March 2021) in order to visualize the data.
+3. After visualizing this data, I believe data from April 2019, April 2020 and April 2021 would have been more telling to see how the ridership is growing during the pandemic aside from seeing the initial drop in April 2020. I did not have April 2021 data at the time of this research, so I chose to use data from the months of March over the 3 year span.
+4. I have chosen to use a 5% sample of each resulted dataset (one for March 2019, March 2020 and March 2021) in order to visualize the data.
 
 
 ## Resulting Visualizations and Analysis
@@ -54,13 +55,17 @@ During the cleaning process I have encountered some issues and came up with the 
 My exploration has resulted in 4 dashboards and 1 story from 15+ individual sheets.
 
 ### 1. Ridership By Gender and Age
+Main takeaway from this visualization is to see how much ridership in general has dropped as compared to 2019. It is understandable why March of 202 is not yet showing such a decline as pandemic only started in the second half of March and people were not yet sure what to do till about April. I though what was facinating is the male/female ratio in 2021 vs 2019. When the riderhip dropped, it seems like both genders started to use it more equally. It may mean that either more males stopped riding CitiBike or the outreach to increase the number of female riders worked. Most likely, it is a combination of both, but that needs further exploration.
 ![Ridership By Gender and Age](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Ridership%20by%20Gender%20and%20Age.png)
 
 ### 2. Most Popular CitiBike Stations
+This map shows all the CitiBike stations rated in size and color intesity based on popularity as a strt and end station. What was interesting to see is the change o=in popularity of the stations throught the pandemic. It may mean that people living in those neighborhoods were most likely to have moved out of the city at that time since most people start their trip on CitiBikes closes to their home. 
+
 ![Most Popular CitiBike Stations](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20CitiBike%20Stations.png)
 ![Most Popular CitiBike Stations by Year](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20Stations%20by%20Year.png)
 
 ### 3. Most Popular End Stations by Gender
+I thought it was interesting to see that there is a big difference in popularity by gender specifucally for stations where peopel chose to end their trip. Top of mind for me was safety - or how safe women felt docking the bikes at those stations. I personally have a couple of CitiBike stations that I would rather not use as a female - for safety precautions.
 
 ![Most Popular End Stations for Men](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20End%20Stations%20for%20Men.png)
 
