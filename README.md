@@ -53,21 +53,23 @@ During the cleaning process I have encountered some issues and came up with the 
 ---
 My exploration has resulted in 4 dashboards and 1 story from 15+ individual sheets.
 
-1. Ridership By Gender and Age
+### 1. Ridership By Gender and Age
 ![Ridership By Gender and Age](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Ridership%20by%20Gender%20and%20Age.png)
 
-2. Most Popular CitiBike Stations
+### 2. Most Popular CitiBike Stations
 ![Most Popular CitiBike Stations](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20CitiBike%20Stations.png)
 ![Most Popular CitiBike Stations by Year](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20Stations%20by%20Year.png)
 
-3. Most Popular End Stations by Gender
+### 3. Most Popular End Stations by Gender
+
 ![Most Popular End Stations for Men](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20End%20Stations%20for%20Men.png)
+
 ![Most Popular End Stations for Women](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Most%20Popular%20End%20Stations%20for%20Women.png)
 
-4. Ridership and Trip Duration Breakdown by Gender
+### 4. Ridership and Trip Duration Breakdown by Gender
 ![Ridership Breakdown by Gender](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Male%20vs%20Female%20Ridership%20by%20Year.png)
 ![Trip Duration Breakdown by Gender](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Trip%20Duration%20and%20Time%20of%20Day%20by%20Gender.png)
 
-5. Ridership by User Type
+### 5. Ridership by User Type
 ![Ridership by User Type](https://github.com/nadiarichards/tableau-challenge/blob/main/Images/Ridership%20by%20User%20Type.png)
 
